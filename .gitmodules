@@ -1,0 +1,3 @@
+[submodule "epidemic_dissemination_logic"]
+	path = epidemic_dissemination_logic
+	url = https://github.com/afonsotmm/epidemic_dissemination_logic.git
