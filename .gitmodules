@@ -1,3 +1,6 @@
 [submodule "epidemic_dissemination_logic"]
 	path = epidemic_dissemination_logic
 	url = https://github.com/afonsotmm/epidemic_dissemination_logic.git
+[submodule "epidemic_dissemination_omnet_integration"]
+	path = epidemic_dissemination_omnet_integration
+	url = https://github.com/mLe0n0r/epidemic_dissemination_omnet_integration
