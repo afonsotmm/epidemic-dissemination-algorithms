@@ -4,3 +4,6 @@
 [submodule "epidemic_dissemination_omnet_integration"]
 	path = epidemic_dissemination_omnet_integration
 	url = https://github.com/mLe0n0r/epidemic_dissemination_omnet_integration
+[submodule "epidemic_dissemination_UI"]
+	path = epidemic_dissemination_UI
+	url = https://github.com/diogo0030/epidemic_dissemination_UI.git
