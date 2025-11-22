@@ -7,3 +7,6 @@
 [submodule "epidemic_dissemination_UI"]
 	path = epidemic_dissemination_UI
 	url = https://github.com/diogo0030/epidemic_dissemination_UI.git
+[submodule "epidemic_dissemination_engine"]
+	path = epidemic_dissemination_engine
+	url = https://github.com/afonsotmm/epidemic_dissemination_engine.git
